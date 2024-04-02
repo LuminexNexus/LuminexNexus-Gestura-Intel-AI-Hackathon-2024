@@ -1,12 +1,18 @@
 # Intel-Hackathon 
 
 Project Name: Gestura
+
 Team Name: Luminex Nexus
-Team Members :
-> Harish V
-> Yuvasri N
-> Mohammed Kasim
-> R Aswin Kannaa
+
+Team Members
+
+ Harish V
+ 
+ Yuvasri N
+ 
+ Mohammed Kasim
+ 
+ R Aswin Kannaa
 
 
 # Problem Statement

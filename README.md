@@ -1,4 +1,4 @@
-# Intel-Hackathon 
+# intel AI Hackathon
 
 Project Name: Gestura
 

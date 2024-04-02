@@ -14,6 +14,9 @@ Team Members
  
  R Aswin Kannaa
 
+ # Intel ToolKits Used
+
+ Intel OneAPI ToolKit For training and optmizing the model in Intel Dev Cloud
 
 # Problem Statement
 
